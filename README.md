@@ -52,12 +52,6 @@ Streamlit • OpenAI API • Git
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/mishi2711/mishi2711/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🔥 Let's Connect  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mishi-johri/  
