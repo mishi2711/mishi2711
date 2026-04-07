@@ -1,6 +1,6 @@
 #  Hi, I'm Mishi Johri  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Full+Stack+Engineer;Java+%7C+React+%7C+Python;Building+Real+World+Projects+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Developer;Full+Stack+Engineer;Java+%7C+React+%7C+Python;Building+Real+World+Projects)
 
  Software Developer | AI + Full Stack Enthusiast  
 
